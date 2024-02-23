@@ -1,6 +1,6 @@
 // Loli is the best!!
 module.exports.config = {
-	name: "age2",
+	name: "age3",
 	version: "1.0.0",
 	hasPermssion: 0,
 	credits: "Islamick Chat",
