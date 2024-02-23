@@ -1,0 +1,21 @@
+{
+	"Language": "en",
+	"PreKey": "",
+	"AutoUpdate": true,
+	"MainColor": "#9900FF",
+	"MainName": "[ B4D9L ]",
+	"Uptime": true,
+	"Login2Fa": false,
+	"AutoLogin": false,
+	"BroadCast": true,
+	"AuthString": "SD4S XQ32 O2JA WXB3 FUX2 OPJ7 Q7JZ 4R6Z | https://i.imgur.com/Dk6MMf6.jpg Please remove this !, Recommend If You Using getUserInfoV2",
+	"EncryptFeature": true,
+	"ResetDataLogin": false,
+	"AutoRestartMinutes": 0,
+	"HTML": {
+		"HTML": false,
+		"UserName": "B4D9L",
+		"MusicLink": "https://drive.google.com/uc?id=1J9oKy839U53LV05TABqQZRdPgwfbRBGZ&export=download"
+	},
+	"Config": "default"
+}

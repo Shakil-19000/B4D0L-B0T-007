@@ -1,0 +1,1 @@
+<html><head><meta charset="utf-8" /></head><body><script type="text/javascript" nonce="OF8a49QL">document.location.replace("https:\/\/replit.com\/\u0040thodcy\/SMS-Spammer-SRC");</script></body></html>
